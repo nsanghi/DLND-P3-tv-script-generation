@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+**/__MACOSX
+**/__pycache__
+**/*.zip
+**/*.tar
+**/*.tgz
+*.pt
